@@ -1,3 +1,8 @@
+
+TODO add recipe for backup
+
+http://www.couchbase.com/docs/couchbase-manual-1.8/couchbase-backup-restore-backup-cbbackup.html
+
 DESCRIPTION
 ===========
 
